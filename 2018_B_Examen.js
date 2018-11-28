@@ -1459,19 +1459,16 @@ const arreglo1=[
 ];
 
 
-
 arreglo1
     .map(
         (valorObtenido) =>{
             console.log(valorObtenido.gender)
 
-            
+
         });
 
 
-
-
-console.log ("Busque los tipos de skin_color en el arreglo `people.json`"
+console.log ("Busque los tipos de skin_color en el arreglo `people.json`");
 arreglo1
     .map(
         (valorObtenido) =>{
